@@ -1,0 +1,16 @@
+/* adding styles for the odd-number class */
+
+.odd-number{
+    background-color: #FFB6C1;
+}
+
+#number{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#numberfour{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
